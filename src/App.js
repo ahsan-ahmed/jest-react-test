@@ -18,8 +18,8 @@ function App() {
         >
           Learn React
         </a>
+        <Link page="http://www.facebook.com">Facebook</Link>
       </header>
-      <Link page="http://www.facebook.com">Facebook</Link>
     </div>
   );
 }
